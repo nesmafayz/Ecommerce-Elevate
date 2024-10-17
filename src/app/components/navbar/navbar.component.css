@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+}
+.navbar{
+    background-color:black;
+}
+
+.navbar-brand{
+width:170px;
+}

@@ -1,4 +1,9 @@
 # Ecommerce
+run on localhost//:4200
+I made home page to show all products that had image,title,price, and rating.
+on click at details button it's route to product-details page with it's details.
+I made a loader in home page until fetch data from api.
+netlify link for live demo: 'https://harmonious-hummingbird-a1986d.netlify.app'
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.10.
 
